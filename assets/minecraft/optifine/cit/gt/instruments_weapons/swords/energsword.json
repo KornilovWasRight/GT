@@ -1,0 +1,56 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "./energsword",
+		"particle": "./energsword"
+	},
+	"elements": [
+		{
+			"from": [8.5, -11, -2],
+			"to": [8.5, 23, 18],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"east": {"uv": [1.75, 0, 6.75, 8.5], "texture": "#0"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"west": {"uv": [1.75, 0, 6.75, 8.5], "texture": "#0"},
+				"up": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 0, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-91.5, 0, 0],
+			"translation": [0, -2.25, -6],
+			"scale": [0.80469, 0.80469, 0.80469]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, -2, -6],
+			"scale": [0.80469, 0.80469, 0.80469]
+		},
+		"firstperson_righthand": {
+			"rotation": [-54.98, 9.95, -11.66]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-61.65, 20.26, -1.04],
+			"translation": [0.25, 0, 0.25]
+		},
+		"ground": {
+			"rotation": [2.34, 5.4, 88.87],
+			"translation": [-3.25, -3, 1.25],
+			"scale": [0.77539, 0.77539, 0.77539]
+		},
+		"gui": {
+			"rotation": [-90, 40.22, 97.06],
+			"translation": [-2, 2.25, 0],
+			"scale": [0.78711, 0.78711, 0.78711]
+		},
+		"fixed": {
+			"rotation": [180, -90, 180],
+			"translation": [-1, 13.25, -1],
+			"scale": [2.03711, 2.03711, 2.03711]
+		}
+	}
+}

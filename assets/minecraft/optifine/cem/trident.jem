@@ -1,0 +1,28 @@
+{
+	"texture": "trident.png",
+	"textureSize": [32, 32],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -27, 0],
+			"boxes": [
+				{"coordinates": [-1.5, 25, -0.5, 3, 2, 1], "textureOffset": [4, 0]},
+				{"coordinates": [-0.5, 0, -0.5, 1, 31, 1], "textureOffset": [0, 0]},
+				{"coordinates": [1.5, 26, -0.5, 1, 4, 1], "textureOffset": [4, 3]},
+				{"coordinates": [-2.5, 26, -0.5, 1, 4, 1], "textureOffset": [4, 3]}
+			]
+		},
+		{
+			"part": "bone",
+			"id": "bone",
+			"invertAxis": "xy",
+			"translate": [-0.5, 0, 1.5],
+			"boxes": [
+				{"coordinates": [-2, 25, -2, 4, 4, 4], "textureOffset": [4, 8]},
+				{"coordinates": [-2, 25, -2, 4, 4, 4], "textureOffset": [4, 16], "sizeAdd": 0.25}
+			]
+		}
+	]
+}

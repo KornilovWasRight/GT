@@ -1,0 +1,25 @@
+﻿{
+   "language.name": "Русский",
+   "language.region": "Россия",
+   "language.code": "ru_ru",
+
+  "entity.minecraft.hoglin": "Боров",
+  "item.minecraft.hoglin_spawn_egg": "Яйцо призыва борова",
+  "subtitles.entity.hoglin.ambient": "Боров ревёт",
+  "subtitles.entity.hoglin.angry": "Боров злобно ревёт",
+  "subtitles.entity.hoglin.attack": "Боров атакует",
+  "subtitles.entity.hoglin.converted_to_zombified": "Боров превратился в зомби-борова",
+  "subtitles.entity.hoglin.death": "Боров погибает",
+  "subtitles.entity.hoglin.hurt": "Боров ранен",
+  "subtitles.entity.hoglin.retreat": "Боров отступает",
+  "subtitles.entity.hoglin.step": "Шаги борова",
+  "item.minecraft.zoglin_spawn_egg": "Яйцо призыва зомби-борова",
+  "entity.minecraft.zoglin": "Зомби-боров",
+  "subtitles.entity.zoglin.ambient": "Зомби-боров ревёт",
+  "subtitles.entity.zoglin.angry": "Зомби-боров злобно ревёт",
+  "subtitles.entity.zoglin.attack": "Зомби-боров атакует",
+  "subtitles.entity.zoglin.death": "Зомби-боров погибает",
+  "subtitles.entity.zoglin.hurt": "Зомби-боров ранен",
+  "subtitles.entity.zoglin.step": "Шаги зомби-борова"
+
+}
